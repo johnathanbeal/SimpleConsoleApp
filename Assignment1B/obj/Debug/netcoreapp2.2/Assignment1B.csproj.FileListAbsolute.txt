@@ -1,0 +1,11 @@
+C:\Users\jbeal\source\repos\UCSDX\CSharp_For_Beginners\Assignment1B\bin\Debug\netcoreapp2.2\Assignment1B.deps.json
+C:\Users\jbeal\source\repos\UCSDX\CSharp_For_Beginners\Assignment1B\bin\Debug\netcoreapp2.2\Assignment1B.runtimeconfig.json
+C:\Users\jbeal\source\repos\UCSDX\CSharp_For_Beginners\Assignment1B\bin\Debug\netcoreapp2.2\Assignment1B.runtimeconfig.dev.json
+C:\Users\jbeal\source\repos\UCSDX\CSharp_For_Beginners\Assignment1B\bin\Debug\netcoreapp2.2\Assignment1B.dll
+C:\Users\jbeal\source\repos\UCSDX\CSharp_For_Beginners\Assignment1B\bin\Debug\netcoreapp2.2\Assignment1B.pdb
+C:\Users\jbeal\source\repos\UCSDX\CSharp_For_Beginners\Assignment1B\obj\Debug\netcoreapp2.2\Assignment1B.csprojAssemblyReference.cache
+C:\Users\jbeal\source\repos\UCSDX\CSharp_For_Beginners\Assignment1B\obj\Debug\netcoreapp2.2\Assignment1B.csproj.CoreCompileInputs.cache
+C:\Users\jbeal\source\repos\UCSDX\CSharp_For_Beginners\Assignment1B\obj\Debug\netcoreapp2.2\Assignment1B.AssemblyInfoInputs.cache
+C:\Users\jbeal\source\repos\UCSDX\CSharp_For_Beginners\Assignment1B\obj\Debug\netcoreapp2.2\Assignment1B.AssemblyInfo.cs
+C:\Users\jbeal\source\repos\UCSDX\CSharp_For_Beginners\Assignment1B\obj\Debug\netcoreapp2.2\Assignment1B.dll
+C:\Users\jbeal\source\repos\UCSDX\CSharp_For_Beginners\Assignment1B\obj\Debug\netcoreapp2.2\Assignment1B.pdb
